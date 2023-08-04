@@ -12,11 +12,12 @@ a, a:hover, a:visited, a:active {
    }
 
 :root {
-    --first-color: #21AAB2;
+    --first-color: #D74C4C;
     --font-color-primary: #39393C;
     --font-color-secondary: #787878;
     --font-color-light: #ffffff;
 }
+
 
 
   
@@ -819,7 +820,7 @@ nav ul{
 }
 
 footer{
-  background: #4D4D4D;
+  background: #3a3e42;
   display: flex;
   justify-content: center;
   padding: 50px 0;
@@ -833,6 +834,10 @@ footer{
 .footer-logo{
   width: 40%;
   color: white;
+}
+
+.footer-logo img{
+  width: 140px;
 }
 
 .links{
@@ -855,7 +860,7 @@ footer{
 }
 
 .terms{
-  background: #4D4D4D;
+  background: #3a3e42;
   display: flex;
   justify-content: center;
 }
@@ -989,3 +994,5 @@ footer{
 .founderimage2 img{
   width: 400px;
 }
+
+
