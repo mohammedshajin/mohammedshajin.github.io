@@ -81,7 +81,7 @@
  .mission{
     display: flex;
     justify-content: center;
-    margin: 60px 0;
+    margin: 100px 0 30px 0;
   }
   
   .mission h1{
@@ -104,7 +104,7 @@
     gap: 50px;
   }
   
-  
+
   .missioncontent{
     width: 50%;
     display: flex;
