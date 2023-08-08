@@ -27,10 +27,30 @@
   }
 
 
+.filter{
+    display: flex;
+    justify-content: center;
+}
 
 
+.filter-tags{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
 
+.filtertag{
+    padding: 15px;
+    
+    background-color: rgb(231, 231, 231);
+    border-radius: 10px;
+}
 
+.active{
+    background-color: #D74C4C;
+    color: white;
+}
 
 
 
