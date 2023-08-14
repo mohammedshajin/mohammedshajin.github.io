@@ -166,6 +166,7 @@ h2{
     height: 2px;
     background: currentColor;
   }
+  
   .accordion button .icon::after {
     display: block;
     position: absolute;
