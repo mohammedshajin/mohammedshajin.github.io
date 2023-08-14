@@ -14,7 +14,7 @@ a, a:hover, a:visited, a:active {
 :root {
     --first-color: #D74C4C;
     --font-color-primary: #39393C;
-    --font-color-secondary: #787878;
+    --font-color-secondary: #7288a2;
     --font-color-light: #ffffff;
 }
 
@@ -939,6 +939,10 @@ footer{
   gap: 10px;
   bottom: -10%;
   right: 0%;
+}
+
+.processfour img{
+  height: 350px;
 }
 
 /* Founder */
