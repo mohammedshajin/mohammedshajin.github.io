@@ -79,7 +79,8 @@ h2{
     align-items: center;
     margin: 50px 0;
     width: 1400px;
-    background: url(/img/fomstock-4ojhpgKpS68-unsplash.gif);
+    background: url(/img/amanda-marie-LCJ9iOli-uE-unsplash.jpg);
+    background-position: center;
     border-radius: 20px;
 }
 
@@ -166,7 +167,7 @@ h2{
     height: 2px;
     background: currentColor;
   }
-  
+
   .accordion button .icon::after {
     display: block;
     position: absolute;
