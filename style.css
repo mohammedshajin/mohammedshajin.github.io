@@ -1000,3 +1000,230 @@ footer{
 }
 
 
+@media screen and (min-width: 320px) and (max-width: 420px){
+  nav{
+    display: none;
+  }
+
+  .banner{
+    height: 80vh;
+  }
+
+  .banner-container{
+    width: 90%;
+  }
+
+  .process p{
+    font-size: 12px;
+  }
+/* 
+  .process img{
+    width: 250px;
+    height: auto;
+  } */
+
+  .banner-sub{
+    display: block;
+    height: fit-content;
+  }
+
+  .banner-image{
+    display: none;
+  }
+
+  .social-icons{
+    display: none;
+  }
+
+  .banner-subimage{
+    width: 100%;
+  }
+  .banner-subimage img {
+    width: 100%;
+}
+  
+  .serv-name{
+    display: none;
+  }
+
+
+  .banner-subcontent{
+    width: 100%;
+  }
+  
+  .container{
+    width: 90%;
+  }
+
+  .services{
+    height: fit-content;
+  }
+
+  .box-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .consultation h3{
+    font-size: 30px;
+  }
+
+  .service{
+    grid-template-columns: repeat(1,1fr);
+    width: 100%;
+    margin: 50px 0;
+  }
+
+ 
+
+  .service-box{
+    padding: 50px 0;
+    padding: 30px;
+  }
+
+ .box-1 img{
+  display: none;
+ }
+
+ .box-4 img{
+  display: none;
+ }
+
+
+  .container-flex{
+    flex-direction: column;
+  }
+
+  .heading h4{
+    font-size: 50px;
+  }
+
+  .heading h3{
+    font-size: 20px;
+  }
+
+  .process-container{
+    display: flex;
+    ;
+  }
+
+  .process{
+    height: 1000px;
+  }
+
+
+  .processone{
+    margin: 50px 0;
+    width: 300px;
+  }
+
+  .processone img{
+    width: 150px;
+    height: auto;
+  }
+
+  .processtwo{
+    flex-direction: row-reverse;
+    margin: 50px 0;
+    top: 17%;
+    right: 10%;
+    width: 300px;
+  }
+
+  .processtwo img{
+    width: 250px;
+    height: auto;
+  }
+
+  .processthree{
+    margin: 50px 0;
+    top: 47%;
+    width: 300px;
+  }
+  .processthree img{
+    width: 180px;
+
+  }
+
+  .processfour{
+    flex-direction: row-reverse;
+    margin: 50px 0;
+    right: 10%;
+    width: 300px;
+  }
+
+  .processfour img{
+    width: 250px;
+    height: auto;
+  }
+
+
+  #processpath{
+    display: none;
+  }
+
+  .founder{
+    margin: 0 0 50px 0;
+  }
+
+  .founder-flex{
+    flex-direction: column;
+  }
+
+  .foundermessage{
+    width: 100%;
+  }
+
+  .founderimage2{
+    width: 100%;
+  }
+
+  .founderimage2 img{
+    width: 100%;
+  }
+
+  .founderimage{
+    width: 100%;
+  }
+
+  .founderimage img{
+    width: 100%;
+  }
+
+  .founderimage2 {
+
+    display: flex;
+    align-items: center;
+}
+
+.foundermessage p {
+  font-size: 20px;
+}
+
+.portfolios{
+  grid-template-columns: repeat(1,1fr);
+}
+
+.container-grid{
+  grid-template-columns: repeat(1,1fr);
+}
+
+.footer-flex{
+  flex-direction: column;
+}
+
+.footer-logo{
+  width: 100%;
+}
+
+.links{
+  width: 100%;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.terms-flex{
+flex-direction: column;
+}
+}
