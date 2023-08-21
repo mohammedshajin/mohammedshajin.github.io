@@ -1006,7 +1006,7 @@ footer{
   }
 
   .banner{
-    height: 80vh;
+    height: 90vh;
   }
 
   .banner-container{
@@ -1119,7 +1119,7 @@ footer{
   }
 
   .processone img{
-    width: 150px;
+    width: 130px;
     height: auto;
   }
 
@@ -1176,6 +1176,14 @@ footer{
 
   .founderimage2{
     width: 100%;
+  }
+
+  .portfolio{
+    height: 350px;
+  }
+
+  #map{
+    width: 90%;
   }
 
   .founderimage2 img{
