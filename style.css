@@ -999,6 +999,12 @@ footer{
   width: 400px;
 }
 
+@media screen and (min-width: 280px) and (max-width: 350px){
+  .banner{
+    height: 100vh;
+  }
+}
+
 
 @media screen and (min-width: 320px) and (max-width: 420px){
   nav{
@@ -1009,7 +1015,7 @@ footer{
     height: 90vh;
   }
 
-  
+
   .banner-container{
     width: 90%;
   }
