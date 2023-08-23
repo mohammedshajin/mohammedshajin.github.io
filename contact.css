@@ -116,10 +116,11 @@ label {
     width: 1400px;
 }
 
-@media screen and (min-width: 320px) and (max-width: 680px) {
+@media screen and (min-width: 280px) and (max-width: 680px) {
 
   .contact-flex{
     flex-direction: column;
+    gap: 20px;
 }
 
 .map{
@@ -129,7 +130,7 @@ label {
 }
 
 .contact-form{
-  width: 100%;
+  width: 90%;
   padding: 0 20px;
 }
 

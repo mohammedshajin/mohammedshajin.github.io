@@ -194,3 +194,29 @@
     width: 400px;
   }
 
+
+  @media screen and (min-width: 280px) and (max-width: 420px){
+    .management{
+      grid-template-columns: repeat(1,1fr)
+    }
+
+    .manager img {
+      width: 100%;
+  }
+
+    .teamgrid{
+      grid-template-columns: repeat(1,1fr)
+    }
+
+    .missionvision{
+      flex-direction: column;
+    }
+
+    .missioncontent{
+      width: 100%;
+    }
+
+    .missionimg{
+      width: 100%;
+    }
+  }

@@ -1012,6 +1012,10 @@ footer{
     display: none;
   }
 
+  .c-container{
+    width: 90%;
+  }
+
   .banner{
     height: 700px;
   }

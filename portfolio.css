@@ -60,7 +60,19 @@
 
 
 
+@media screen and (min-width: 280px) and (max-width: 480px) {
 
+    .heading {
+        height: 100PX;
+    }
+
+    .masonary {
+    margin: 20px auto;
+    columns: 1;
+    column-gap: 20px;
+}
+
+}
 
 
 

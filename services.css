@@ -207,4 +207,55 @@ h2{
   
   
   
+  @media screen and (min-width: 280px) and (max-width: 480px) {
+    .container {
+      width: 90%;
+    }
+    .about-services {
+      width: 100%;
+      margin-right: 0;
+      margin-bottom: 50px;
+
+  }
+
+  .about-image {
+    width: 100%;
+  }
+
+  .service-contact{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .about-image2 {
+    width: 100%;
+  }
+
+  .about-points{
+    width: 100%;
+  }
+
+  .service-ccont{
+    margin: 50px 20px;
+  }
+
+  .service-ccont h2 {
+    text-align: center;
+  }
+
+  .about-image2 {
+    margin-right: 0 ;
+  }
+
+  .about-points{
+    margin-right: 0;
+  }
+
+  .containerss{
+    padding: 0;
+    width: 90%;
+  }
   
+}
