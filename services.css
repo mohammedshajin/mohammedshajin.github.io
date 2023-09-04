@@ -9,6 +9,7 @@
 .about-service{
     display: flex;
     justify-content: center;
+    margin: 40px 0;
 }
 
 .about-services{
@@ -259,3 +260,4 @@ h2{
   }
   
 }
+
